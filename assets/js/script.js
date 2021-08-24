@@ -46,4 +46,5 @@ function createCactus(){
 	background.appendChild(cactus);
 }
 
+createCactus();
 document.addEventListener('keyup', handleKeyUp);
